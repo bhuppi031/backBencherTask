@@ -25,3 +25,4 @@
 ## Testing
 
 Use Postman or curl to test the API endpoints.
+postman collection: https://api.postman.com/collections/31533713-b3216d00-3a3a-4b12-8f16-eaf422b45d0c?access_key=PMAT-01JAQ84FD7GNZAVC26HNMBHBPD

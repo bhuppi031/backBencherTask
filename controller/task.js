@@ -1,5 +1,6 @@
 const { users, tasks } = require("../data");
 
+
 // Get all tasks for authenticated user
 exports.getAllTask = (req, res) => {
   try {
